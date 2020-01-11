@@ -1,0 +1,60 @@
+﻿<Window x:Class="WPF.MainWindow"
+
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="Application WPF" Height="450" Width="800">
+    <Window.Resources>
+        <local:RuntimeToHour x:Key="RuntimeToHour" />
+        <ObjectDataProvider x:Key="FilmTitle" ObjectType="{x:Type local:ActorViewModel}" MethodName="TxtFilmTitle"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="137*"/>
+            <ColumnDefinition Width="657*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="420" Margin="97,0,0,0" Stroke="Black" VerticalAlignment="Top" Width="1" Grid.Column="1"/>
+        <Button x:Name="BoutonPlus" Content="&gt;" HorizontalAlignment="Left" Height="26" Margin="39,228,0,0" VerticalAlignment="Top" Width="53" Click="BoutonPlus_Click" Grid.Column="1"/>
+        <Button x:Name="BoutonMoins" Content="&lt;" HorizontalAlignment="Left" Height="26" Margin="10,228,0,0" VerticalAlignment="Top" Width="53" Click="BoutonMoins_Click"/>
+        <TextBox x:Name="Nom" HorizontalAlignment="Left" Height="22" Margin="10,290,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="107"/>
+        <Button x:Name="RechercherNom" Content="Recherche par nom" HorizontalAlignment="Left" Height="22" Margin="122,290,0,0" VerticalAlignment="Top" Width="107" Click="RechercherNom_Click" RenderTransformOrigin="0.561,-0.664" Grid.ColumnSpan="2"/>
+        <Label x:Name="LabelSelection" Content="0 - 10" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Height="26" Margin="68,228,0,0" VerticalAlignment="Top" Width="103" Grid.ColumnSpan="2"/>
+        <Button x:Name="RechercherTous" Content="Rechercher tous les acteurs" HorizontalAlignment="Left" Height="26" Margin="10,259,0,0" VerticalAlignment="Top" Width="219" Click="RechercherTous_Click" Grid.ColumnSpan="2"/>
+        <ListBox x:Name="BoxActeur" HorizontalAlignment="Left" Height="213" Margin="10,10,0,0" VerticalAlignment="Top" Width="219" MouseDoubleClick="DoubleClick" Grid.ColumnSpan="2"/>
+        <Label x:Name="ActorName" Content="" FontWeight="Bold" HorizontalAlignment="Left" Height="27" Margin="103.2,10,0,0" VerticalAlignment="Top" Width="236" Grid.Column="1"/>
+
+
+        <DataGrid x:Name="GridActeur" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="368" Margin="103.2,42,0,0" VerticalAlignment="Top" Width="544" Grid.Column="1" >
+            <DataGrid.DataContext>
+                <local:ActorViewModel/>
+            </DataGrid.DataContext>
+            <DataGrid.Columns>
+
+                <!--<DataGridTextColumn x:Name="Poster" Header="Affiche" Binding="{Binding Posterpath}"  />-->
+                <DataGridTemplateColumn Header="Poster" Width="SizeToCells" IsReadOnly="True">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Posterpath}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="Title"  Header="Titre" Binding="{Binding Title}"  />
+
+
+                <DataGridTextColumn Header="Date de sortie" Binding="{Binding ReleaseDate}" />
+                <DataGridTextColumn Header="Durée" Binding="{Binding Path=Runtime, Converter={StaticResource RuntimeToHour}}" />
+                <DataGridTemplateColumn Header="Rôles">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <ItemsControl ItemsSource="{Binding Characters}" DisplayMemberPath="CharacterName"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Commentaires" Grid.Column="1" HorizontalAlignment="Left" Margin="344.2,10,0,0" VerticalAlignment="Top" Width="85" Height="27" Click="Button_Click"/>
+    </Grid>
+</Window>

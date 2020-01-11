@@ -1,0 +1,17 @@
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\bin\Debug\netcoreapp3.0\ConsoleDotNet.exe
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\bin\Debug\netcoreapp3.0\ConsoleDotNet.deps.json
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\bin\Debug\netcoreapp3.0\ConsoleDotNet.runtimeconfig.json
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\bin\Debug\netcoreapp3.0\ConsoleDotNet.runtimeconfig.dev.json
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\bin\Debug\netcoreapp3.0\ConsoleDotNet.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\bin\Debug\netcoreapp3.0\ConsoleDotNet.pdb
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\bin\Debug\netcoreapp3.0\DAL.dll.config
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\bin\Debug\netcoreapp3.0\EntityFramework.xml
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\obj\Debug\netcoreapp3.0\ConsoleDotNet.csprojAssemblyReference.cache
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\obj\Debug\netcoreapp3.0\ConsoleDotNet.AssemblyInfoInputs.cache
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\obj\Debug\netcoreapp3.0\ConsoleDotNet.AssemblyInfo.cs
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\obj\Debug\netcoreapp3.0\ConsoleDotNet.csproj.CopyComplete
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\obj\Debug\netcoreapp3.0\ConsoleDotNet.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\ConsoleDotNet\obj\Debug\netcoreapp3.0\ConsoleDotNet.pdb

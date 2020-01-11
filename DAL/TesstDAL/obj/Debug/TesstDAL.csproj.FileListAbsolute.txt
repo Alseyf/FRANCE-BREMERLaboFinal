@@ -1,0 +1,14 @@
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\bin\Debug\TesstDAL.exe.config
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\bin\Debug\TesstDAL.exe
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\bin\Debug\TesstDAL.pdb
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\bin\Debug\DAL.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\bin\Debug\EntityFramework.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\bin\Debug\DAL.pdb
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\bin\Debug\DAL.dll.config
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\bin\Debug\EntityFramework.xml
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\obj\Debug\TesstDAL.csprojAssemblyReference.cache
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\obj\Debug\TesstDAL.csproj.CopyComplete
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\obj\Debug\TesstDAL.exe
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TesstDAL\obj\Debug\TesstDAL.pdb

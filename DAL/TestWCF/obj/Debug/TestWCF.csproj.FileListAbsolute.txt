@@ -1,0 +1,13 @@
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TestWCF\bin\Debug\TestWCF.exe.config
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TestWCF\bin\Debug\TestWCF.exe
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TestWCF\bin\Debug\TestWCF.pdb
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TestWCF\obj\Debug\TestWCF.exe
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TestWCF\obj\Debug\TestWCF.pdb
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TestWCF\bin\Debug\EntityFramework.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TestWCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TestWCF\bin\Debug\EntityFramework.xml
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TestWCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TestWCF\obj\Debug\TestWCF.csproj.CopyComplete
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TestWCF\bin\Debug\DTO.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TestWCF\bin\Debug\DTO.pdb
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\TestWCF\obj\Debug\TestWCF.csprojAssemblyReference.cache

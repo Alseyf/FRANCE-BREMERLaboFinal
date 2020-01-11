@@ -1,0 +1,13 @@
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\BLL\bin\Debug\BLL.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\BLL\bin\Debug\BLL.pdb
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\BLL\bin\Debug\DAL.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\BLL\bin\Debug\DTO.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\BLL\bin\Debug\EntityFramework.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\BLL\bin\Debug\DAL.pdb
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\BLL\bin\Debug\DAL.dll.config
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\BLL\bin\Debug\DTO.pdb
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\BLL\bin\Debug\EntityFramework.xml
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\BLL\obj\Debug\BLL.dll
+C:\Users\denys\Source\Repos\HEPL-Moitroux\laboprognet-bremer-france\DAL\BLL\obj\Debug\BLL.pdb

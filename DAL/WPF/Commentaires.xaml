@@ -1,0 +1,27 @@
+﻿<Window x:Class="WPF.Commentaires"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="Commentaires" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="GridComment" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="400" Margin="10,10,0,0" VerticalAlignment="Top" Width="395">
+            <DataGrid.Columns>
+                <DataGridTextColumn   Header="Date" Binding="{Binding Date}"  />
+                <DataGridTextColumn   Header="Contenu" Binding="{Binding Content}"  />
+                <DataGridTextColumn   Header="Rate" Binding="{Binding Rate}"  />
+                <DataGridTextColumn   Header="Avatar" Binding="{Binding avatar}"  />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Commentaire  :" HorizontalAlignment="Left" Margin="410,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Note :" HorizontalAlignment="Left" Margin="410,41,0,0" VerticalAlignment="Top"/>
+        <Label Content="Avatar :" HorizontalAlignment="Left" Margin="410,72,0,0" VerticalAlignment="Top"/>
+        <Button Content="Envoyer" HorizontalAlignment="Left" Margin="545,134,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <TextBox x:Name="Content" HorizontalAlignment="Left" Height="23" Margin="506,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="278"/>
+        <TextBox x:Name="Note" HorizontalAlignment="Left" Height="23" Margin="506,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Avatar" HorizontalAlignment="Left" Height="23" Margin="506,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
